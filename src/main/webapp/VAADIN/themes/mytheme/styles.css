@@ -15208,6 +15208,11 @@ div.v-layout.v-horizontal.v-widget {
 	background-color: pink !important;
 }
 
+.mytheme .cookie_monster {
+	background-color: black;
+	color: white;
+}
+
 .mytheme .green_button {
 	color: green;
 }
